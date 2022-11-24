@@ -1,0 +1,11 @@
+.header {
+    background-color: aqua;
+}
+
+.content-section {
+    display: none;
+}
+.align-center {
+    display: flex;
+    justify-content: center;
+}
